@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 33cb31cb5de8d784197e43b7f7cd77f3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: f67d6fbc3fcd5d345837da08c29ad842, type: 2}
+  _assetPath: Assets/Chapter 10/Chapter 10.3/Cereals.sbsar

@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Chapter 11/Chapter 11.3/Chapter 11.3.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
