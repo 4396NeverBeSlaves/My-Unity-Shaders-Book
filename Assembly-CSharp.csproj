@@ -58,8 +58,9 @@
   <ItemGroup>
     <Compile Include="Assets\Script\Helper\SetPropertyAttribute.cs" />
     <Compile Include="Assets\Chapter 10\Chapter 10.3\GenerateProceduralTexture.cs" />
-    <Compile Include="Assets\Chapter 12\Chapter 12.1\PostEffectsBase.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.1\BrightSaturationContrast.cs" />
+    <Compile Include="Assets\Chapter 12\Chapter 12.1\PostEffectsBase.cs" />
+    <Compile Include="Assets\Chapter 12\Chapter 12.2\EdgeDetection.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Chapter 8\Chapter 8.4\AlphaBlend.shader" />
@@ -73,6 +74,7 @@
     <None Include="Assets\Chapter 8\Chapter 8.5\AlphaBlendZWrite.shader" />
     <None Include="Assets\Chapter 6\Chapter 6.5\DiffuseAndSpecularPixel.shader" />
     <None Include="Assets\Chapter 12\Chapter 12.1\BrightSaturationContrast.shader" />
+    <None Include="Assets\Chapter 12\Chapter 12.2\EdgeDetection.shader" />
     <None Include="Assets\Chapter 6\Chapter 6.4\PerVertexLighting.shader" />
     <None Include="Assets\Chapter 11\Chapter 11.3\Water.shader" />
     <None Include="Assets\Chapter 9\Chapter 9.2\ForwardRendering.shader" />

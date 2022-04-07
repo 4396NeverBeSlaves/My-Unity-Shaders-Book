@@ -11,7 +11,12 @@ public class BrightSaturationContrast : PostEffectsBase
 
     Material mat;
 
-    Material material => CheckShaderAndCreateMaterial(mat, shader);
+    public Material material {
+        get { 
+            return CheckShaderAndCreateMaterial(mat, shader);
+        }
+            
+    }
     private void OnRenderImage(RenderTexture source, RenderTexture destination)
     {
         if(mat!= null)

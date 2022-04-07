@@ -49,7 +49,7 @@ Shader "Chapter 12/BrightSaturationContrast"
                 fixed4 col = tex2D(_MainTex, i.uv);
                 fixed3 finalColor = col.rgb * _brightness;
 
-                float luminance = finalColor.r * 0.2125+ finalColor.g * 0.7154 + finalColor.r * 0.0721;
+                float luminance = finalColor.r * 0.2125+ finalColor.g * 0.7154 + finalColor.b * 0.0721;
                 
                 finalColor = lerp(fixed3(luminance,luminance,luminance),finalColor,_saturation);
 
