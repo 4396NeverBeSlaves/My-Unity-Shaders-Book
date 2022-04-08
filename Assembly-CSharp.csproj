@@ -57,10 +57,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\Helper\SetPropertyAttribute.cs" />
+    <Compile Include="Assets\Chapter 12\Chapter 12.4\GaussianBlur.cs" />
     <Compile Include="Assets\Chapter 10\Chapter 10.3\GenerateProceduralTexture.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.1\BrightSaturationContrast.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.1\PostEffectsBase.cs" />
-    <Compile Include="Assets\Chapter 12\Chapter 12.2\EdgeDetection.cs" />
+    <Compile Include="Assets\Chapter 12\Chapter 12.3\EdgeDetection.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Chapter 8\Chapter 8.4\AlphaBlend.shader" />
@@ -74,7 +75,7 @@
     <None Include="Assets\Chapter 8\Chapter 8.5\AlphaBlendZWrite.shader" />
     <None Include="Assets\Chapter 6\Chapter 6.5\DiffuseAndSpecularPixel.shader" />
     <None Include="Assets\Chapter 12\Chapter 12.1\BrightSaturationContrast.shader" />
-    <None Include="Assets\Chapter 12\Chapter 12.2\EdgeDetection.shader" />
+    <None Include="Assets\Chapter 12\Chapter 12.3\EdgeDetection.shader" />
     <None Include="Assets\Chapter 6\Chapter 6.4\PerVertexLighting.shader" />
     <None Include="Assets\Chapter 11\Chapter 11.3\Water.shader" />
     <None Include="Assets\Chapter 9\Chapter 9.2\ForwardRendering.shader" />
@@ -85,6 +86,7 @@
     <None Include="Assets\Chapter 8\Chapter 8.7\AlphaBlendBothSide.shader" />
     <None Include="Assets\Chapter 7\Chapter 7.1 7.2\NormalMapTangentSpace.shader" />
     <None Include="Assets\Chapter 4.8\Built_in_variables.shader" />
+    <None Include="Assets\Chapter 12\Chapter 12.4\GaussianBlur.shader" />
     <None Include="Assets\Chapter 9\Chapter 9.4\Shadow.shader" />
     <None Include="Assets\Chapter 9\Chapter 9.4\BlendShadow.shader" />
     <None Include="Assets\Chapter 9\Chapter 9.4\LightAttenAndShadow.shader" />
