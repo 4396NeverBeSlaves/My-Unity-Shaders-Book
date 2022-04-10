@@ -47,7 +47,7 @@
   <PropertyGroup>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <UnityProjectGenerator>Package</UnityProjectGenerator>
-    <UnityProjectGeneratorVersion>2.0.14</UnityProjectGeneratorVersion>
+    <UnityProjectGeneratorVersion>2.0.15</UnityProjectGeneratorVersion>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
     <UnityVersion>2020.3.13f1c1</UnityVersion>
@@ -62,8 +62,12 @@
     <Compile Include="Assets\Chapter 12\Chapter 12.1\BrightSaturationContrast.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.1\PostEffectsBase.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.3\EdgeDetection.cs" />
+    <Compile Include="Assets\Chapter 12\Chapter 12.5\Bloom.cs" />
+    <Compile Include="Assets\Chapter 12\Chapter 12.6\MotionBlur.cs" />
+    <Compile Include="Assets\Chapter 12\Chapter 12.6\Translating.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Chapter 12\Chapter 12.5\Bloom.shader" />
     <None Include="Assets\Chapter 8\Chapter 8.4\AlphaBlend.shader" />
     <None Include="Assets\Chapter 6\Chapter 6.4\HalfLambert.shader" />
     <None Include="Assets\Chapter 9\Chapter 9.4\TransparentShadow.shader" />
@@ -94,6 +98,7 @@
     <None Include="Assets\Chapter 10\Chapter 10.2\Glass.shader" />
     <None Include="Assets\Chapter 11\Chapter 11.3\BillBoarding.shader" />
     <None Include="Assets\Chapter 5.2\simple shader.shader" />
+    <None Include="Assets\Chapter 12\Chapter 12.6\MotionBlur.shader" />
     <None Include="Assets\Chapter 11\Chapter 11.2\BackgoundAnimation.shader" />
     <None Include="Assets\Chapter 10\Chapter 10.2\Mirror.shader" />
     <None Include="Assets\Chapter 10\Chapter  10.1\Refraction.shader" />

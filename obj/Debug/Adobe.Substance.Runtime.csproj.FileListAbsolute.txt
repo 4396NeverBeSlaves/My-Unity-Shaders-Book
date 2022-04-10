@@ -1,0 +1,2 @@
+C:\Users\X\Documents\Unity Project\My Unity Shaders Book\obj\Debug\Adobe.Substance.Runtime.csproj.AssemblyReference.cache
+C:\Users\X\Documents\Unity Project\My Unity Shaders Book\obj\Debug\Adobe.Substance.Runtime.csproj.CoreCompileInputs.cache

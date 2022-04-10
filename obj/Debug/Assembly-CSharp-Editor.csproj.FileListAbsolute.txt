@@ -1,0 +1,2 @@
+C:\Users\X\Documents\Unity Project\My Unity Shaders Book\obj\Debug\Assembly-CSharp-Editor.csproj.AssemblyReference.cache
+C:\Users\X\Documents\Unity Project\My Unity Shaders Book\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache

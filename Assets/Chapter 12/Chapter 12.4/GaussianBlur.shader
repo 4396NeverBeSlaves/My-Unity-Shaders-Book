@@ -1,4 +1,4 @@
-Shader "Chapter 12/GaussinaBlur"
+Shader "Chapter 12/GaussianBlur"
 {
     Properties
     {
