@@ -59,12 +59,16 @@
     <Compile Include="Assets\Script\Helper\SetPropertyAttribute.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.4\GaussianBlur.cs" />
     <Compile Include="Assets\Chapter 10\Chapter 10.3\GenerateProceduralTexture.cs" />
+    <Compile Include="Assets\Chapter 12\Chapter 12.6\MotionBlur.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.1\BrightSaturationContrast.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.1\PostEffectsBase.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.3\EdgeDetection.cs" />
-    <Compile Include="Assets\Chapter 12\Chapter 12.5\Bloom.cs" />
-    <Compile Include="Assets\Chapter 12\Chapter 12.6\MotionBlur.cs" />
+    <Compile Include="Assets\Chapter 13\Chapter 13.3\HeightFog.cs" />
+    <Compile Include="Assets\Chapter 13\Chapter 13.2\MotionBlurDepthTexture.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.6\Translating.cs" />
+    <Compile Include="Assets\Chapter 12\Chapter 12.5\Bloom.cs" />
+    <Compile Include="Assets\Chapter 13\Chapter 13.1\CameraDepthNormals.cs" />
+    <Compile Include="Assets\Chapter 13\Chaptet 13.4\EdgeDetectNormalDepth.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Chapter 12\Chapter 12.5\Bloom.shader" />
@@ -84,6 +88,7 @@
     <None Include="Assets\Chapter 11\Chapter 11.3\Water.shader" />
     <None Include="Assets\Chapter 9\Chapter 9.2\ForwardRendering.shader" />
     <None Include="Assets\Chapter 7\Chapter 7.3\RampTexture.shader" />
+    <None Include="Assets\Chapter 13\Chapter 13.2\MotionBlurDepthTexture.shader" />
     <None Include="Assets\Chapter 6\Chapter 6.5\DiffuseAndSpecularVertex.shader" />
     <None Include="Assets\Chapter 11\Chapter 11.2\ImagineSequenceAnimation.shader" />
     <None Include="Assets\Chapter 6\Chapter 6.5\BlinnPhong.shader" />
@@ -97,9 +102,12 @@
     <None Include="Assets\Chapter 7\Chapter 7.1 7.2\TestMatrixLayout.shader" />
     <None Include="Assets\Chapter 10\Chapter 10.2\Glass.shader" />
     <None Include="Assets\Chapter 11\Chapter 11.3\BillBoarding.shader" />
+    <None Include="Assets\Chapter 13\Chapter 13.3\HeightFog.shader" />
     <None Include="Assets\Chapter 5.2\simple shader.shader" />
     <None Include="Assets\Chapter 12\Chapter 12.6\MotionBlur.shader" />
     <None Include="Assets\Chapter 11\Chapter 11.2\BackgoundAnimation.shader" />
+    <None Include="Assets\Chapter 13\Chaptet 13.4\EdgeDetectNormalDepth.shader" />
+    <None Include="Assets\Chapter 13\Chapter 13.1\ShowDepthNormals.shader" />
     <None Include="Assets\Chapter 10\Chapter 10.2\Mirror.shader" />
     <None Include="Assets\Chapter 10\Chapter  10.1\Refraction.shader" />
     <None Include="Assets\Chapter 7\Chapter 7.1 7.2\SingleTexture.shader" />
