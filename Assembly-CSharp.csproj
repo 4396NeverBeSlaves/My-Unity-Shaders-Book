@@ -62,13 +62,13 @@
     <Compile Include="Assets\Chapter 12\Chapter 12.6\MotionBlur.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.1\BrightSaturationContrast.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.1\PostEffectsBase.cs" />
+    <Compile Include="Assets\Chapter 13\Chaptet 13.4\EdgeDetectNormalDepth.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.3\EdgeDetection.cs" />
     <Compile Include="Assets\Chapter 13\Chapter 13.3\HeightFog.cs" />
     <Compile Include="Assets\Chapter 13\Chapter 13.2\MotionBlurDepthTexture.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.6\Translating.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.5\Bloom.cs" />
     <Compile Include="Assets\Chapter 13\Chapter 13.1\CameraDepthNormals.cs" />
-    <Compile Include="Assets\Chapter 13\Chaptet 13.4\EdgeDetectNormalDepth.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Chapter 12\Chapter 12.5\Bloom.shader" />
@@ -76,6 +76,7 @@
     <None Include="Assets\Chapter 6\Chapter 6.4\HalfLambert.shader" />
     <None Include="Assets\Chapter 9\Chapter 9.4\TransparentShadow.shader" />
     <None Include="Assets\Chapter 11\Chapter 11.3\WaterWithShadow.shader" />
+    <None Include="Assets\Chaptert 14\Chapter 14.1\ToonStyle.shader" />
     <None Include="Assets\Chapter 7\Chapter 7.1 7.2\NormalMapWorldSpace.shader" />
     <None Include="Assets\Chapter 8\Chapter 8.3\AlphaTest.shader" />
     <None Include="Assets\Chapter 10\Chapter  10.1\Reflection.shader" />
