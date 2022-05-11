@@ -76,8 +76,9 @@
     <None Include="Assets\Chapter 6\Chapter 6.4\HalfLambert.shader" />
     <None Include="Assets\Chapter 9\Chapter 9.4\TransparentShadow.shader" />
     <None Include="Assets\Chapter 11\Chapter 11.3\WaterWithShadow.shader" />
-    <None Include="Assets\Chaptert 14\Chapter 14.1\ToonStyle.shader" />
+    <None Include="Assets\Chapter 14\Chapter 14.1\ToonStyle.shader" />
     <None Include="Assets\Chapter 7\Chapter 7.1 7.2\NormalMapWorldSpace.shader" />
+    <None Include="Assets\Chapter 14\Chapter 14.2\Hatching.shader" />
     <None Include="Assets\Chapter 8\Chapter 8.3\AlphaTest.shader" />
     <None Include="Assets\Chapter 10\Chapter  10.1\Reflection.shader" />
     <None Include="Assets\Chapter 7\Chapter 7.4\MaskTexture.shader" />
@@ -97,6 +98,7 @@
     <None Include="Assets\Chapter 7\Chapter 7.1 7.2\NormalMapTangentSpace.shader" />
     <None Include="Assets\Chapter 4.8\Built_in_variables.shader" />
     <None Include="Assets\Chapter 12\Chapter 12.4\GaussianBlur.shader" />
+    <None Include="Assets\Chapter 14\Chapter 14.2\test.shader" />
     <None Include="Assets\Chapter 9\Chapter 9.4\Shadow.shader" />
     <None Include="Assets\Chapter 9\Chapter 9.4\BlendShadow.shader" />
     <None Include="Assets\Chapter 9\Chapter 9.4\LightAttenAndShadow.shader" />
