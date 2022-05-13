@@ -65,10 +65,13 @@
     <Compile Include="Assets\Chapter 13\Chaptet 13.4\EdgeDetectNormalDepth.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.3\EdgeDetection.cs" />
     <Compile Include="Assets\Chapter 13\Chapter 13.3\HeightFog.cs" />
+    <Compile Include="Assets\Chapter 15\Chapter 15.1\BurnDissolveAnimation.cs" />
     <Compile Include="Assets\Chapter 13\Chapter 13.2\MotionBlurDepthTexture.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.6\Translating.cs" />
     <Compile Include="Assets\Chapter 12\Chapter 12.5\Bloom.cs" />
     <Compile Include="Assets\Chapter 13\Chapter 13.1\CameraDepthNormals.cs" />
+    <Compile Include="Assets\Chapter 15\Chapter 15.2\WaterWaveAnimation.cs" />
+    <Compile Include="Assets\Chapter 15\Chapter 15.3\FogWithNoiseAnimation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Chapter 12\Chapter 12.5\Bloom.shader" />
@@ -98,6 +101,7 @@
     <None Include="Assets\Chapter 7\Chapter 7.1 7.2\NormalMapTangentSpace.shader" />
     <None Include="Assets\Chapter 4.8\Built_in_variables.shader" />
     <None Include="Assets\Chapter 12\Chapter 12.4\GaussianBlur.shader" />
+    <None Include="Assets\Chapter 15\Chapter 15.1\BurnDissolve.shader" />
     <None Include="Assets\Chapter 14\Chapter 14.2\test.shader" />
     <None Include="Assets\Chapter 9\Chapter 9.4\Shadow.shader" />
     <None Include="Assets\Chapter 9\Chapter 9.4\BlendShadow.shader" />
@@ -110,11 +114,13 @@
     <None Include="Assets\Chapter 12\Chapter 12.6\MotionBlur.shader" />
     <None Include="Assets\Chapter 11\Chapter 11.2\BackgoundAnimation.shader" />
     <None Include="Assets\Chapter 13\Chaptet 13.4\EdgeDetectNormalDepth.shader" />
+    <None Include="Assets\Chapter 15\Chapter 15.2\WaterWave.shader" />
     <None Include="Assets\Chapter 13\Chapter 13.1\ShowDepthNormals.shader" />
     <None Include="Assets\Chapter 10\Chapter 10.2\Mirror.shader" />
     <None Include="Assets\Chapter 10\Chapter  10.1\Refraction.shader" />
     <None Include="Assets\Chapter 7\Chapter 7.1 7.2\SingleTexture.shader" />
     <None Include="Assets\Chapter 6\Chapter 6.4\PerPixelLighting.shader" />
+    <None Include="Assets\Chapter 15\Chapter 15.3\FogWithNoise.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
